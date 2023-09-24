@@ -55,7 +55,8 @@
           "scale": {"scheme":"goldorange"}
         },
         "tooltip": [
-          {"field": "properties.NAME", "type": "nominal", "title": "Country"}
+          {"field": "properties.NAME", "type": "nominal", "title": "Country"},
+          {"field": "per 1000 tonnes", "type": "quantitative", "title": "per 1000 tonnes"}
         ]
       }
     }
